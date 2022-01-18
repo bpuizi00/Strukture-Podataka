@@ -1,0 +1,3 @@
+Sydney 1134500
+Melbourne 840350
+Canberra 687000

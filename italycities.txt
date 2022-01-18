@@ -1,0 +1,3 @@
+Rome 2435000
+Milan 1470300
+Venezia 2455401
